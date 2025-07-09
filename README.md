@@ -9,20 +9,9 @@
 This dll was modified to make Hammer++ look better with dark windows themes.
 Version 2.0 has been redesigned for comfort and utility, your black Hammer magic can now be even darker than before.
 Be aware that the CSGO version is frozen on build 8864.
-Credit goes to Johannes Wieck. 
-(heisenberg0600 on discord)
 
 Thank you for your great feedback, hope you'll enjoy this new version.
-Please let me know what you think, thanks and have fun!
-
-----> Brushwork Entertainment on Discord:
-https://discord.gg/6KQJuzeGxb
-
-----> Brushwork Entertainment Website
-https://brushworkentertainment.github.io/
-
-----> Brushwork Entertainment on lambdageneration
-https://community.lambdageneration.com/user/brushwork
+Thanks and have fun!
 
 ///////////// Installation /////////////
 
