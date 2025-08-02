@@ -1,9 +1,7 @@
-# Hammer-Dark-icons-pack
 
 
-#####################   Dark icons pack Version 2.0 for Hammer++ version 8869   ######################
-
-
+#####################   Dark icons pack Version 2.0 for Hammer++ version 8870   ######################
+|____________________________________________________________________________________________________|
 
 
 This dll was modified to make Hammer++ look better with dark windows themes.
@@ -11,7 +9,21 @@ Version 2.0 has been redesigned for comfort and utility, your black Hammer magic
 Be aware that the CSGO version is frozen on build 8864.
 
 Thank you for your great feedback, hope you'll enjoy this new version.
-Thanks and have fun!
+Credit for this icon pack goes to 006walter_heisenberg (Discord)
+Thanks and have fun, your Brushwork Entertainment team!
+
+///////////////////////////////////////
+
+
+Brushwork Entertainment on Lambda: 
+https://community.lambdageneration.com/user/brushwork
+
+Brushwork Entertainment on Discord:
+https://discord.com/invite/6KQJuzeGxb
+
+Brushwork Entertainment Website:
+https://brushworkentertainment.github.io/
+
 
 ///////////// Installation /////////////
 
@@ -59,8 +71,8 @@ To change the windows theme you need a tool like the ThemeTool SecureUxTheme or 
 Make sure to create a system restore point before using these tools and make sure the theme supports your current windows version.
 
 To go back to the OG Hammer++ icons just replace the dll with the Original dll for the game you're using Hammer++ for -> https://ficool2.github.io/HammerPlusPlus-Website/download.html
-This dll is from Hammer++ version 8869, make sure to use the right one!
-Example picture made with the "Void night" dark theme for windows 10.
-
+This dll is from Hammer++ version 8870, make sure to use the right one!
+Example pictures made with the "Void night" and "Penumbra 10" dark themes for windows 10.
 
 ///////////////////////////////////////
+
